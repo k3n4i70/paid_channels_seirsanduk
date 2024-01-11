@@ -1,31 +1,31 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.cloudns.org/dl.php"
 
-#EXTINF:-1,DiemaSport
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="DiemaSport" tvg-logo="diemasport.png" group-title="Спортни",Diema Sport
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/9181
 
-#EXTINF:-1,DiemaSport2
+#EXTINF:-1 tvg-id="DiemaSport2" tvg-name="DiemaSport2" tvg-logo="diemasport2.png" group-title="Спортни",Diema Sport 2
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/9180
 
-#EXTINF:-1,DiemaSport3
+#EXTINF:-1 tvg-id="DiemaSport3" tvg-name="DiemaSport3" tvg-logo="diemasport3.png" group-title="Спортни",Diema Sport 3
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/9179
 
-#EXTINF:-1,Eurosport1
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="eurosport1.png" group-title="Спортни",Eurosport 1
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/32010
 
-#EXTINF:-1,Eurosport2
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="eurosport2.png" group-title="Спортни",Eurosport 2
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/33578
 
-#EXTINF:-1,MAXSport1
+#EXTINF:-1 tvg-id="MAXSport1" tvg-name="MAXSport1" tvg-logo="maxsport1.png" group-title="Спортни",МAX Sport 1
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/20448
 
-#EXTINF:-1,MAXSport2
+#EXTINF:-1 tvg-id="MAXSport2" tvg-name="MAXSport2" tvg-logo="maxsport2.png" group-title="Спортни",МAX Sport 2
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/20449
 
-#EXTINF:-1,MAXSport3
+#EXTINF:-1 tvg-id="MAXSport3" tvg-name="MAXSport3" tvg-logo="maxsport3.png" group-title="Спортни",МAX Sport 3
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/16431
 
-#EXTINF:-1,MAXSport4
+#EXTINF:-1 tvg-id="MAXSport4" tvg-name="MAXSport4" tvg-logo="maxsport4.png" group-title="Спортни",МAX Sport 4
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/16433
 
-#EXTINF:-1,78TV
+#EXTINF:-1 tvg-id="78TV" tvg-name="78TV" tvg-logo="78tv.png" group-title="Партийни",7/8TV
 http:\\iptvtree.net:8080\newoutputofflinechecker\GJQNq4AjPVFHyrZ5\16394
