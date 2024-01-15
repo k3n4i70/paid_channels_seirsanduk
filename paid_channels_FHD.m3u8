@@ -29,3 +29,6 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/16433
 
 #EXTINF:-1 tvg-id="78TV" tvg-name="78TV" tvg-logo="78tv.png" group-title="Партийни",7/8TV
 http:\\iptvtree.net:8080\newoutputofflinechecker\GJQNq4AjPVFHyrZ5\16394
+
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="id.png" group-title="Документални",Investigation Discovery
+http:\\iptvtree.net:8080\newoutputofflinechecker\GJQNq4AjPVFHyrZ5\32020
